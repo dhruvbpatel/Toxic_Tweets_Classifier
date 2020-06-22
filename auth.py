@@ -4,13 +4,13 @@ import pandas as pd
 pd.set_option('display.max_colwidth', 1000)
 
 # api key
-api_key = 'inS7mNbYQCqFwIjduNCtLPo1Z'
+api_key = 'apikey'
 # api secret key
-api_secret_key = 'K7zfiX9YkiNnOTMXKtPT2RFqBY3fjzYwaBpwKtwY6AOKhAy8km'
+api_secret_key = 'api_secret_key'
 # access token
-access_token = "934853303136948224-9MPXyWDYUJZyfaQsaVqgXzRZ1fg67s0"
+access_token = "access_token"
 # access token secret
-access_token_secret = "e2LQoIDb2NzW2TvTvM0GB4UT1CLMdZ6W0lQcvUoBhcg2E"
+access_token_secret = "access_token_secret"
 
 
 # authorize the API Key
